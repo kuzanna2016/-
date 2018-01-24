@@ -1,3 +1,4 @@
+# 3 вариант
 import random
 
 def noun():
